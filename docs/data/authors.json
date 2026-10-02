@@ -1,0 +1,18 @@
+[
+  {
+    "id": "linxiaofeng",
+    "name": "林晓峰",
+    "title": "资深网络架构师 / TrialPick 首席测试工程师",
+    "avatar": "/authors/linxiaofeng.svg",
+    "bio": "从事跨国企业 SD-WAN 组网与 BGP Anycast 路由调优 9 年。专注于节点链路抖动、TCP 拥塞算法与晚高峰网络真实性能评测，恪守客观事实与数据透明原则。",
+    "specialties": ["IEPL/IPLC专线架构", "TCP/BBR拥塞控制", "BGP路由拓扑分析", "晚高峰网络压测"]
+  },
+  {
+    "id": "chenyu",
+    "name": "陈宇",
+    "title": "网络协议分析师 / 流媒体与AI服务测试员",
+    "avatar": "/authors/chenyu.svg",
+    "bio": "专注于主流开源代理协议（VLESS, Trojan, Hysteria2, TUIC）与流媒体原生 IP 解锁策略评测。累计实测超 100+ 机场服务，长期追踪节点反封锁与安全风控动态。",
+    "specialties": ["流媒体全解锁检测", "ChatGPT/Claude接入风控分析", "开源客户端适配", "月付高性价比发掘"]
+  }
+]

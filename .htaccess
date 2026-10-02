@@ -1,0 +1,27 @@
+RewriteEngine On
+
+# 强制 HTTPS
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# 常见通用/历史目录 301 重定向映射防护
+RewriteRule ^brands/?$ /reviews/ [R=301,L]
+RewriteRule ^brands/(.+)$ /reviews/$1 [R=301,L]
+RewriteRule ^vpn/?$ /rankings/ [R=301,L]
+RewriteRule ^vpn/(.+)$ /rankings/ [R=301,L]
+
+# Sitemap-index 友好别名映射 (如果物理文件未就绪则回退至 sitemap.xml)
+RewriteRule ^sitemap-index\.xml$ sitemap-index.xml [L]
+
+# VitePress cleanUrls 重写
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ $1.html [L]
+
+DirectoryIndex index.html
+
+# 安全响应头 (HTTP Security Headers)
+Header set X-Content-Type-Options "nosniff"
+Header set X-Frame-Options "SAMEORIGIN"
+Header set Referrer-Policy "strict-origin-when-cross-origin"
+Header set Permissions-Policy "camera=(), microphone=(), geolocation=()"

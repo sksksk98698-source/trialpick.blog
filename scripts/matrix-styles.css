@@ -1,0 +1,142 @@
+
+/* =======================================================
+   测速与流媒体解锁图表展示样式（SEO & 读感优化）
+   ======================================================= */
+.matrix-card {
+  background: var(--vp-c-bg);
+  border: 1px solid var(--vp-c-border);
+  border-radius: 12px;
+  padding: 24px;
+  margin: 32px 0;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.03);
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.matrix-card:hover {
+  border-color: var(--vp-c-brand-1);
+  box-shadow: 0 6px 24px rgba(2, 132, 199, 0.08);
+}
+
+.matrix-card.featured-rank-1 {
+  border: 2px solid var(--vp-c-brand-1);
+  background: linear-gradient(180deg, rgba(2, 132, 199, 0.03) 0%, var(--vp-c-bg) 100%);
+}
+
+.matrix-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 1px dashed var(--vp-c-border);
+}
+
+.matrix-brand-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.matrix-rank-tag {
+  background-color: var(--vp-c-brand-1);
+  color: #fff;
+  font-size: 13px;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 6px;
+}
+
+.matrix-brand-name {
+  font-size: 22px;
+  font-weight: 800;
+  color: var(--vp-c-text-1);
+  margin: 0;
+}
+
+.matrix-price-tag {
+  font-size: 18px;
+  font-weight: 700;
+  color: #e11d48;
+}
+
+.test-chart-container {
+  margin: 20px 0;
+  background-color: var(--vp-c-bg-alt);
+  border: 1px solid var(--vp-c-border);
+  border-radius: 10px;
+  padding: 16px;
+  text-align: center;
+}
+
+.test-chart-img {
+  max-width: 100%;
+  max-height: 700px;
+  object-fit: contain;
+  border-radius: 6px;
+  border: 1px solid var(--vp-c-border);
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+  margin: 0 auto 10px auto;
+  display: block;
+}
+
+.test-chart-caption {
+  font-size: 12.5px;
+  color: var(--vp-c-text-3);
+  line-height: 1.5;
+  margin-top: 8px;
+}
+
+.unlock-badge-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
+  gap: 8px;
+  margin: 16px 0;
+}
+
+.unlock-badge-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: var(--vp-c-bg-alt);
+  border: 1px solid var(--vp-c-border);
+  padding: 6px 10px;
+  border-radius: 6px;
+  font-size: 13px;
+}
+
+.unlock-status-pass {
+  color: #10b981;
+  font-weight: 700;
+}
+
+.unlock-status-warn {
+  color: #f59e0b;
+  font-weight: 700;
+}
+
+.matrix-cta-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid var(--vp-c-border);
+}
+
+.matrix-coupon-pill {
+  font-size: 13px;
+  color: var(--vp-c-text-2);
+}
+
+.matrix-coupon-pill code {
+  background-color: rgba(2, 132, 199, 0.1);
+  color: var(--vp-c-brand-1);
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-weight: 700;
+  font-size: 14px;
+}

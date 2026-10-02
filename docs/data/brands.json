@@ -1,0 +1,1073 @@
+[
+  {
+    "slug": "gsy",
+    "name": "光速云",
+    "rank": 1,
+    "foundedYear": 2020,
+    "entryPlan": "99元/年 59GB/月",
+    "monthlyPrice": 8.25,
+    "billingCycle": "年付",
+    "bandwidth": "59GB/月",
+    "lineType": "IEPL/企业内网",
+    "coupon": "AMM",
+    "referralUrl": "https://sahude.gsyvipaff.com/#/?code=keqgvT5Y",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-10-01",
+    "author": "linxiaofeng",
+    "editorRating": 9.8,
+    "trialPolicy": "支持低成本试用（入门套餐折合8.25元/月），提供无忧退换保障，不虚构免费噱头",
+    "features": [
+      "2020年开业老牌专线，6年持续稳定运营",
+      "自研企业级内网专线与多重容灾架构",
+      "晚高峰（20:00-23:00）实测千兆丢包率接近0%",
+      "全节点解锁ChatGPT/Claude等AI工具与4K流媒体",
+      "全平台支持：Clash Verge, Sing-box, Shadowrocket, Surge"
+    ],
+    "pros": [
+      "开业时间长（2020年），跑路风险极低，行业口碑佳",
+      "企业内网专线不经过公共骨干网，抗封锁与抗抖动能力极强",
+      "年付99元折合每月仅8.25元，性价比领跑同级专线",
+      "工单响应迅速，技术运维团队专业成熟"
+    ],
+    "cons": [
+      "入门套餐为年付99元结算，暂不提供个位数小额单月包",
+      "高峰期活动期间热门套餐偶有售罄补货情况"
+    ],
+    "recommendedFor": "追求长期省心、高稳定性、需要稳定使用ChatGPT学术科研和4K流媒体的核心用户",
+    "tags": [
+      "综合推荐第1",
+      "6年老牌",
+      "企业内网专线",
+      "高性价比",
+      "晚高峰无拥堵"
+    ],
+    "datePublished": "2026-08-15"
+  },
+  {
+    "slug": "feimao",
+    "name": "飞猫云",
+    "rank": 2,
+    "foundedYear": 2023,
+    "entryPlan": "约7元/月 50GB",
+    "monthlyPrice": 7,
+    "billingCycle": "月付",
+    "bandwidth": "50GB/月",
+    "lineType": "IEPL",
+    "coupon": "flycat888",
+    "referralUrl": "https://guangs.flycataff.com/#/?code=6uq0Xe9y",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-28",
+    "author": "chenyu",
+    "editorRating": 9.2,
+    "trialPolicy": "提供约7元小额入门月付，适合低成本首月尝鲜",
+    "features": [
+      "2023年成立，主打平价IEPL专线",
+      "约7元月付门槛极低，支持灵活按月续费",
+      "50GB轻量流量包，适合日常网页和轻量社媒"
+    ],
+    "pros": [
+      "月付门槛低至7元，尝鲜试错成本极小",
+      "采用IEPL专线接入，基础延迟控制合理"
+    ],
+    "cons": [
+      "50GB流量对高频视频用户略显局促",
+      "晚高峰大带宽下载速率略有波动"
+    ],
+    "recommendedFor": "预算有限、需要灵活月付的轻度网络浏览用户",
+    "tags": [
+      "低价尝鲜",
+      "月付7元",
+      "IEPL专线"
+    ],
+    "datePublished": "2026-08-22"
+  },
+  {
+    "slug": "weifeng",
+    "name": "微风网络",
+    "rank": 3,
+    "foundedYear": 2023,
+    "entryPlan": "约7元/月 50GB",
+    "monthlyPrice": 7,
+    "billingCycle": "月付",
+    "bandwidth": "50GB/月",
+    "lineType": "IEPL",
+    "coupon": "flat888",
+    "referralUrl": "https://edp01.breezenetaff.com/#/?code=t3huofyI",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-29",
+    "author": "chenyu",
+    "editorRating": 9.1,
+    "trialPolicy": "约7元月付套餐，无强制长周期绑定",
+    "features": [
+      "IEPL专线加速节点",
+      "轻量化入门配额",
+      "适配主流开源客户端"
+    ],
+    "pros": [
+      "单月门槛低，随用随充",
+      "界面简洁，新手订阅导入友好"
+    ],
+    "cons": [
+      "高峰期节点偶有延迟波动",
+      "缺少小众地区冷门节点"
+    ],
+    "recommendedFor": "学生群体与备用梯子需求的轻度用户",
+    "tags": [
+      "月付友好",
+      "7元入门",
+      "IEPL专线"
+    ],
+    "datePublished": "2026-08-28"
+  },
+  {
+    "slug": "xingdaomeng",
+    "name": "星岛梦",
+    "rank": 4,
+    "foundedYear": 2020,
+    "entryPlan": "约8元/月 60GB",
+    "monthlyPrice": 8,
+    "billingCycle": "月付",
+    "bandwidth": "60GB/月",
+    "lineType": "企业内网",
+    "coupon": "nmw888",
+    "referralUrl": "https://guangs.xingdaomeng.com/#/?code=1TynBYnR",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-30",
+    "author": "linxiaofeng",
+    "editorRating": 9.3,
+    "trialPolicy": "约8元月付体验，支持按月续订",
+    "features": [
+      "2020年老牌运营，积累较深",
+      "企业内网通道架构",
+      "月付8元享60GB"
+    ],
+    "pros": [
+      "老牌运营超5年，经验丰富可靠",
+      "企业内网线路稳定度高于普通公网中转"
+    ],
+    "cons": [
+      "部分节点倍率略高，需留意流量消耗",
+      "工单夜间响应偶有延迟"
+    ],
+    "recommendedFor": "看重运营年份与内网质量、偏好月付的中度用户",
+    "tags": [
+      "2020老牌",
+      "企业内网",
+      "月付8元"
+    ],
+    "datePublished": "2026-09-02"
+  },
+  {
+    "slug": "wuyou",
+    "name": "无忧链接",
+    "rank": 5,
+    "foundedYear": 2025,
+    "entryPlan": "19元/月 100GB",
+    "monthlyPrice": 19,
+    "billingCycle": "月付",
+    "bandwidth": "100GB/月",
+    "lineType": "IEPL",
+    "coupon": "wuyou666",
+    "referralUrl": "https://wep01.worryfreeaff.com/#/?code=4ZoSbLdL",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-27",
+    "author": "chenyu",
+    "editorRating": 9,
+    "trialPolicy": "标准19元月付体验",
+    "features": [
+      "2025新秀品牌，硬件设备较新",
+      "IEPL专线保障百兆级吞吐",
+      "100GB主流流量包"
+    ],
+    "pros": [
+      "节点负载低，晚高峰带宽充足",
+      "客服交互体验较现代化"
+    ],
+    "cons": [
+      "运营时长仅1年多，需保持月付观察",
+      "价格略高于7-8元档位"
+    ],
+    "recommendedFor": "喜欢新平台不拥挤、需要100GB流量的办公追剧用户",
+    "tags": [
+      "次新专线",
+      "100GB",
+      "IEPL"
+    ],
+    "datePublished": "2026-09-05"
+  },
+  {
+    "slug": "ermao",
+    "name": "二猫云",
+    "rank": 6,
+    "foundedYear": 2023,
+    "entryPlan": "20元/月 130GB",
+    "monthlyPrice": 20,
+    "billingCycle": "月付",
+    "bandwidth": "130GB/月",
+    "lineType": "IEPL",
+    "coupon": "ermao5555",
+    "referralUrl": "https://guangs.2maoyunaff.cc/#/?code=7mjvgGbW",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-26",
+    "author": "linxiaofeng",
+    "editorRating": 8.9,
+    "trialPolicy": "月付20元试用，含130GB流量",
+    "features": [
+      "IEPL专线节点覆盖主要地区",
+      "130GB大流量配额",
+      "流媒体优化分流规则"
+    ],
+    "pros": [
+      "流量单价实惠，130GB适合看剧",
+      "流媒体解锁表现良好"
+    ],
+    "cons": [
+      "晚高峰部分香港节点存在轻微丢包",
+      "偶尔维护临时更换端口"
+    ],
+    "recommendedFor": "Netflix/YouTube 追剧重度用户",
+    "tags": [
+      "大流量",
+      "130GB",
+      "流媒体解锁"
+    ],
+    "datePublished": "2026-09-08"
+  },
+  {
+    "slug": "weitu",
+    "name": "唯兔云",
+    "rank": 7,
+    "foundedYear": 2023,
+    "entryPlan": "14.9元/月 100GB",
+    "monthlyPrice": 14.9,
+    "billingCycle": "月付",
+    "bandwidth": "100GB/月",
+    "lineType": "60+节点/三网优化",
+    "coupon": "weitu666",
+    "referralUrl": "https://guangs.v2yunvipaff.com/#/?code=xIutqOBA",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-25",
+    "author": "chenyu",
+    "editorRating": 8.9,
+    "trialPolicy": "14.9元体验套餐",
+    "features": [
+      "60+海量节点池",
+      "电信、联通、移动三网针对性优化",
+      "14.9元百G性价比"
+    ],
+    "pros": [
+      "节点国家与地区极其丰富，选择空间大",
+      "移动端分流体验友好"
+    ],
+    "cons": [
+      "部分远距离冷门节点连通率参差不齐",
+      "专线与中转混部，需自选低延迟线路"
+    ],
+    "recommendedFor": "需要多地区IP切换（如跨境比价、学术抓取）的用户",
+    "tags": [
+      "60+节点",
+      "三网优化",
+      "多地区"
+    ],
+    "datePublished": "2026-09-10"
+  },
+  {
+    "slug": "firefly",
+    "name": "Firefly",
+    "rank": 8,
+    "foundedYear": 2026,
+    "entryPlan": "8元/月 60GB",
+    "monthlyPrice": 8,
+    "billingCycle": "月付",
+    "bandwidth": "60GB/月",
+    "lineType": "IPLC",
+    "coupon": "firefly",
+    "referralUrl": "https://vip02.fireflyaff.com/#/?code=2n7VURre",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-24",
+    "author": "linxiaofeng",
+    "editorRating": 8.8,
+    "trialPolicy": "8元月付体验",
+    "features": [
+      "2026全新平台，专线资源充裕",
+      "IPLC端到端低延迟内网",
+      "8元尝鲜价"
+    ],
+    "pros": [
+      "IPLC专线延迟表现出色，玩外服游戏平稳",
+      "新站人均带宽充足"
+    ],
+    "cons": [
+      "2026年新开业，成立时间短，必须坚持月付",
+      "运营稳定性尚待长期时间检验"
+    ],
+    "recommendedFor": "追求超低延迟的尝鲜极客，建议严格按月订阅",
+    "tags": [
+      "2026新站",
+      "IPLC专线",
+      "低延迟"
+    ],
+    "datePublished": "2026-09-12"
+  },
+  {
+    "slug": "muguang",
+    "name": "暮光加速",
+    "rank": 9,
+    "foundedYear": 2023,
+    "entryPlan": "20元/月 120GB",
+    "monthlyPrice": 20,
+    "billingCycle": "月付",
+    "bandwidth": "120GB/月",
+    "lineType": "IEPL",
+    "coupon": "muguang5555",
+    "referralUrl": "https://varnexa.twilightaff.com/#/?code=D1LHglg3",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-23",
+    "author": "chenyu",
+    "editorRating": 8.8,
+    "trialPolicy": "20元月付试用",
+    "features": [
+      "IEPL专线节点网络",
+      "120GB充足配额",
+      "主流协议全支持"
+    ],
+    "pros": [
+      "客户端适配完善，教程详细",
+      "日常使用平稳"
+    ],
+    "cons": [
+      "相比百元内老牌专线，价格无明显优势",
+      "节点数量中规中矩"
+    ],
+    "recommendedFor": "常规中度办公与影音用户",
+    "tags": [
+      "IEPL专线",
+      "120GB",
+      "稳健月付"
+    ],
+    "datePublished": "2026-09-14"
+  },
+  {
+    "slug": "yuzhou",
+    "name": "宇宙云",
+    "rank": 10,
+    "foundedYear": 2023,
+    "entryPlan": "14.9元/月 100GB",
+    "monthlyPrice": 14.9,
+    "billingCycle": "月付",
+    "bandwidth": "100GB/月",
+    "lineType": "IEPL",
+    "coupon": "YUZHOU553",
+    "referralUrl": "https://wzjc.yuzoucloud.cc/#/?code=yrThwMP1",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-22",
+    "author": "linxiaofeng",
+    "editorRating": 8.7,
+    "trialPolicy": "14.9元百G月付试用",
+    "features": [
+      "IEPL直连专线",
+      "14.9元百G高性价比",
+      "主流AI平台支持"
+    ],
+    "pros": [
+      "价格亲民，流量满足多数家庭需求",
+      "节点切换速度良好"
+    ],
+    "cons": [
+      "周末晚高峰偶发抖动",
+      "冷门区域节点偏少"
+    ],
+    "recommendedFor": "性价比追求者与家庭常规使用",
+    "tags": [
+      "性价比",
+      "14.9元",
+      "IEPL"
+    ],
+    "datePublished": "2026-09-15"
+  },
+  {
+    "slug": "u1s1",
+    "name": "U1S1",
+    "rank": 11,
+    "foundedYear": 2023,
+    "entryPlan": "20元/月 120GB",
+    "monthlyPrice": 20,
+    "billingCycle": "月付",
+    "bandwidth": "120GB/月",
+    "lineType": "IEPL",
+    "coupon": "akaka",
+    "referralUrl": "https://guangs.vipaff.cc/#/?code=xhX5X22f",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-21",
+    "author": "chenyu",
+    "editorRating": 8.7,
+    "trialPolicy": "20元月付试用",
+    "features": [
+      "IEPL稳定专线通道",
+      "全平台订阅支持",
+      "流媒体优化分流"
+    ],
+    "pros": [
+      "运营超3年，线路调优较成熟",
+      "节点测速表现平稳"
+    ],
+    "cons": [
+      "套餐缺少单月特惠折扣",
+      "高峰期部分节点限速"
+    ],
+    "recommendedFor": "需要稳定中端专线的月付用户",
+    "tags": [
+      "3年运营",
+      "IEPL专线",
+      "月付20"
+    ],
+    "datePublished": "2026-09-16"
+  },
+  {
+    "slug": "lingmao",
+    "name": "灵猫网络",
+    "rank": 12,
+    "foundedYear": 2024,
+    "entryPlan": "19元/月 150GB",
+    "monthlyPrice": 19,
+    "billingCycle": "月付",
+    "bandwidth": "150GB/月",
+    "lineType": "企业内网",
+    "coupon": "lmao888",
+    "referralUrl": "https://vip01.civetnet.com/#/?code=8MIAyxak",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-20",
+    "author": "linxiaofeng",
+    "editorRating": 8.7,
+    "trialPolicy": "19元大流量月付体验",
+    "features": [
+      "企业内网通道架构",
+      "150GB充沛流量配额",
+      "支持多终端并发"
+    ],
+    "pros": [
+      "19元给到150GB，单GB成本低",
+      "内网质量优于普通公网中转"
+    ],
+    "cons": [
+      "2024年成立，运营时长2年左右，建议月付",
+      "部分冷门节点不可用率略高"
+    ],
+    "recommendedFor": "大流量需求、多设备共享的租房或宿舍用户",
+    "tags": [
+      "150GB大流量",
+      "企业内网",
+      "月付19"
+    ],
+    "datePublished": "2026-09-17"
+  },
+  {
+    "slug": "jilian",
+    "name": "极连云",
+    "rank": 13,
+    "foundedYear": 2024,
+    "entryPlan": "18元/月 100GB",
+    "monthlyPrice": 18,
+    "billingCycle": "月付",
+    "bandwidth": "100GB/月",
+    "lineType": "IEPL",
+    "coupon": "ji8888",
+    "referralUrl": "https://guangs.jlyvipaff.com/#/?code=VM1rKGUu",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-19",
+    "author": "chenyu",
+    "editorRating": 8.6,
+    "trialPolicy": "18元月付试用",
+    "features": [
+      "IEPL专线节点网络",
+      "100GB标准配置",
+      "延迟优化良好"
+    ],
+    "pros": [
+      "亚太核心节点延迟低，响应迅速",
+      "订阅下发流程顺畅"
+    ],
+    "cons": [
+      "价格偏常规，无显著价格壁垒",
+      "欧美长途节点速度一般"
+    ],
+    "recommendedFor": "主要访问亚太地区（港澳台日韩）的用户",
+    "tags": [
+      "亚太优化",
+      "IEPL专线",
+      "月付18"
+    ],
+    "datePublished": "2026-09-18"
+  },
+  {
+    "slug": "guangnian",
+    "name": "光年梯",
+    "rank": 14,
+    "foundedYear": 2025,
+    "entryPlan": "18元/月 110GB",
+    "monthlyPrice": 18,
+    "billingCycle": "月付",
+    "bandwidth": "110GB/月",
+    "lineType": "IEPL",
+    "coupon": "gnt6666",
+    "referralUrl": "https://guangs.gntaff.com/#/?code=X1FoxjGE",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-18",
+    "author": "linxiaofeng",
+    "editorRating": 8.6,
+    "trialPolicy": "18元月付体验",
+    "features": [
+      "IEPL专线传输",
+      "110GB流量包",
+      "抗干扰协议调优"
+    ],
+    "pros": [
+      "次新站带宽不拥挤",
+      "110GB配置兼顾日常与影音"
+    ],
+    "cons": [
+      "成立时间较短，需观察长期表现",
+      "客户端使用教程较简略"
+    ],
+    "recommendedFor": "尝试次新专线、需要中等流量的尝鲜者",
+    "tags": [
+      "次新专线",
+      "110GB",
+      "IEPL"
+    ],
+    "datePublished": "2026-09-19"
+  },
+  {
+    "slug": "yifan",
+    "name": "一翻云",
+    "rank": 15,
+    "foundedYear": 2024,
+    "entryPlan": "20元/月 150GB",
+    "monthlyPrice": 20,
+    "billingCycle": "月付",
+    "bandwidth": "150GB/月",
+    "lineType": "IEPL",
+    "coupon": "yfy6666",
+    "referralUrl": "https://guangs.1flyunaff.cc/#/register?code=Yr7FhB7r",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-25",
+    "author": "chenyu",
+    "editorRating": 8.5,
+    "trialPolicy": "月付20元体验",
+    "features": [
+      "IEPL专线线路",
+      "150GB大配额",
+      "针对视频流媒体优化"
+    ],
+    "pros": [
+      "流量充裕，单GB成本合理",
+      "油管4K缓冲流畅"
+    ],
+    "cons": [
+      "部分节点偶有重连现象",
+      "工单支持响应时间不固定"
+    ],
+    "recommendedFor": "高频视频刷剧、流量消耗较大的用户",
+    "tags": [
+      "150GB大容量",
+      "IEPL",
+      "流媒体"
+    ],
+    "datePublished": "2026-09-20"
+  },
+  {
+    "slug": "sogo",
+    "name": "SOGO云",
+    "rank": 16,
+    "foundedYear": 2026,
+    "entryPlan": "25元/月 150GB",
+    "monthlyPrice": 25,
+    "billingCycle": "月付",
+    "bandwidth": "150GB/月",
+    "lineType": "IEPL",
+    "coupon": "sss777",
+    "referralUrl": "https://guangs.sogoyunaff.cc/#/?code=327Vs0w7",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-26",
+    "author": "linxiaofeng",
+    "editorRating": 8.4,
+    "trialPolicy": "25元月付试用",
+    "features": [
+      "2026新秀平台，专线硬件升级",
+      "150GB充足容量",
+      "企业IEPL隧道"
+    ],
+    "pros": [
+      "全新服务器集群，节点负载低",
+      "最高突发速率表现突出"
+    ],
+    "cons": [
+      "2026年新站，开业时间短，必须按月订阅防范风险",
+      "价格达到25元/月，偏向中高定位"
+    ],
+    "recommendedFor": "对突发大带宽有要求且严格坚持月付的尝鲜玩家",
+    "tags": [
+      "2026新站",
+      "突发大带宽",
+      "月付25"
+    ],
+    "datePublished": "2026-09-21"
+  },
+  {
+    "slug": "kexin",
+    "name": "可信云",
+    "rank": 17,
+    "foundedYear": 2024,
+    "entryPlan": "25元/月 150GB",
+    "monthlyPrice": 25,
+    "billingCycle": "月付",
+    "bandwidth": "150GB/月",
+    "lineType": "IEPL",
+    "coupon": "kkk333",
+    "referralUrl": "https://guangs.kosingaff.com/#/register?code=UYDtNlCY",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-27",
+    "author": "chenyu",
+    "editorRating": 8.4,
+    "trialPolicy": "25元月付体验",
+    "features": [
+      "IEPL专线节点覆盖",
+      "150GB配额配置",
+      "双栈IPv4/IPv6"
+    ],
+    "pros": [
+      "节点连接较稳定，掉线率低",
+      "支持IPv6网络接入"
+    ],
+    "cons": [
+      "价格在同类150GB套餐中稍高",
+      "冷门时区维护偶有通知滞后"
+    ],
+    "recommendedFor": "重视线路稳定感、需要IPv6支持的用户",
+    "tags": [
+      "IPv6支持",
+      "IEPL",
+      "月付25"
+    ],
+    "datePublished": "2026-09-22"
+  },
+  {
+    "slug": "sujie",
+    "name": "速界",
+    "rank": 18,
+    "foundedYear": 2024,
+    "entryPlan": "25元/月 150GB",
+    "monthlyPrice": 25,
+    "billingCycle": "月付",
+    "bandwidth": "150GB/月",
+    "lineType": "IEPL",
+    "coupon": "sss1111",
+    "referralUrl": "https://guangs.speedworldaff.cc/#/register?code=xgXzEfZB",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-28",
+    "author": "linxiaofeng",
+    "editorRating": 8.3,
+    "trialPolicy": "25元月付试用",
+    "features": [
+      "IEPL专线传输",
+      "150GB流量包",
+      "支持全平台主流客户端"
+    ],
+    "pros": [
+      "测速爆发力强，跑大文件下载顺畅",
+      "客户端导入指引清晰"
+    ],
+    "cons": [
+      "性价比相较于百元内年付专线偏弱",
+      "节点分布集中在东亚"
+    ],
+    "recommendedFor": "偶尔需要大流量快速下载的月付用户",
+    "tags": [
+      "大流量",
+      "IEPL",
+      "月付25"
+    ],
+    "datePublished": "2026-09-23"
+  },
+  {
+    "slug": "shanyue",
+    "name": "闪跃",
+    "rank": 19,
+    "foundedYear": 2024,
+    "entryPlan": "24元/月 150GB",
+    "monthlyPrice": 24,
+    "billingCycle": "月付",
+    "bandwidth": "150GB/月",
+    "lineType": "IEPL",
+    "coupon": "shanyue",
+    "referralUrl": "https://vip02.flashleapaff.com/#/?code=3lgzm9mm",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-29",
+    "author": "chenyu",
+    "editorRating": 8.3,
+    "trialPolicy": "24元月付体验",
+    "features": [
+      "IEPL专线节点",
+      "150GB流量",
+      "晚高峰冗余预留"
+    ],
+    "pros": [
+      "高峰期拥塞控制表现及格",
+      "界面直观清爽"
+    ],
+    "cons": [
+      "价格略高无独特竞争优势",
+      "节点倍率偶有变动"
+    ],
+    "recommendedFor": "中度月付需求、看重界面易用性的用户",
+    "tags": [
+      "IEPL专线",
+      "150GB",
+      "月付24"
+    ],
+    "datePublished": "2026-09-24"
+  },
+  {
+    "slug": "quanqiu",
+    "name": "全球云",
+    "rank": 20,
+    "foundedYear": 2026,
+    "entryPlan": "20元/月 120GB",
+    "monthlyPrice": 20,
+    "billingCycle": "月付",
+    "bandwidth": "120GB/月",
+    "lineType": "IEPL",
+    "coupon": "qqy7777",
+    "referralUrl": "https://guangs.gcvipaff.com/#/?code=Ov2nvU9C",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-30",
+    "author": "linxiaofeng",
+    "editorRating": 8.2,
+    "trialPolicy": "20元月付试用",
+    "features": [
+      "2026年全新上线",
+      "IEPL专线接入",
+      "120GB中规中矩"
+    ],
+    "pros": [
+      "新站人均带宽占用低，延迟好看",
+      "支持多协议切换"
+    ],
+    "cons": [
+      "2026新站无历史信誉积累，防跑路必须月付",
+      "节点地区覆盖尚不完备"
+    ],
+    "recommendedFor": "喜欢尝试新站速度的玩家，切忌长期年付",
+    "tags": [
+      "2026新站",
+      "IEPL",
+      "按月观察"
+    ],
+    "datePublished": "2026-09-25"
+  },
+  {
+    "slug": "shandianshu",
+    "name": "闪电鼠",
+    "rank": 21,
+    "foundedYear": 2024,
+    "entryPlan": "约5.6元/月 60GB",
+    "monthlyPrice": 5.6,
+    "billingCycle": "月付",
+    "bandwidth": "60GB/月",
+    "lineType": "IEPL",
+    "coupon": "sd88",
+    "referralUrl": "https://qwerty.shandianshuaff.com/#/?code=rUE75iYh",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-10-01",
+    "author": "chenyu",
+    "editorRating": 8.5,
+    "trialPolicy": "约5.6元超低价月付，极佳低成本试错选择",
+    "features": [
+      "极致平民价格，月费仅约5.6元",
+      "60GB实用配额",
+      "IEPL专线节点"
+    ],
+    "pros": [
+      "价格极其低廉，一瓶饮料钱即可用一个月",
+      "对于轻度查资料用户性价比极高"
+    ],
+    "cons": [
+      "超低价导致用户体量大，晚高峰偶有拥挤",
+      "技术支持仅基础工单，回复速度一般"
+    ],
+    "recommendedFor": "极致省钱党、轻度查资料与学术检索用户",
+    "tags": [
+      "超低价",
+      "5.6元/月",
+      "极低门槛",
+      "轻度首选"
+    ],
+    "datePublished": "2026-09-26"
+  },
+  {
+    "slug": "dalaoyun",
+    "name": "大佬云",
+    "rank": 22,
+    "foundedYear": 2024,
+    "entryPlan": "约5.6元/月 60GB",
+    "monthlyPrice": 5.6,
+    "billingCycle": "月付",
+    "bandwidth": "60GB/月",
+    "lineType": "IEPL",
+    "coupon": "dly888",
+    "referralUrl": "https://qwerty.dalaoyunaff.com/#/?code=jCPLmoWN",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-28",
+    "author": "linxiaofeng",
+    "editorRating": 8.4,
+    "trialPolicy": "约5.6元入门月付",
+    "features": [
+      "约5.6元超低月付价格",
+      "60GB日常流量",
+      "IEPL专线基础保障"
+    ],
+    "pros": [
+      "门槛低，零心理负担试错",
+      "非高峰期网页打开速度快"
+    ],
+    "cons": [
+      "晚高峰大带宽下载容易受限",
+      "节点数量相对精简"
+    ],
+    "recommendedFor": "预算极其紧张、仅做基础翻阅网页的用户",
+    "tags": [
+      "超低价",
+      "5.6元/月",
+      "入门省钱"
+    ],
+    "datePublished": "2026-09-27"
+  },
+  {
+    "slug": "yunjiexian",
+    "name": "云界线",
+    "rank": 23,
+    "foundedYear": 2024,
+    "entryPlan": "约5.6元/月 60GB",
+    "monthlyPrice": 5.6,
+    "billingCycle": "月付",
+    "bandwidth": "60GB/月",
+    "lineType": "IEPL",
+    "coupon": "yjx888",
+    "referralUrl": "https://qwerty.yunjiexianaff.com/?code=HBaZ91c6",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-29",
+    "author": "chenyu",
+    "editorRating": 8.4,
+    "trialPolicy": "约5.6元极低成本试用",
+    "features": [
+      "约5.6元月费",
+      "IEPL专线节点",
+      "60GB月流量"
+    ],
+    "pros": [
+      "极低价格试错，不心疼",
+      "客户端配置简单"
+    ],
+    "cons": [
+      "流媒体解锁支持不够全面",
+      "偶有维护节点短暂下线"
+    ],
+    "recommendedFor": "学生群体与临时备用需求",
+    "tags": [
+      "超低价",
+      "5.6元/月",
+      "备用首选"
+    ],
+    "datePublished": "2026-09-28"
+  },
+  {
+    "slug": "liulian",
+    "name": "榴莲云",
+    "rank": 24,
+    "foundedYear": 2024,
+    "entryPlan": "约5.6元/月 60GB",
+    "monthlyPrice": 5.6,
+    "billingCycle": "月付",
+    "bandwidth": "60GB/月",
+    "lineType": "IEPL",
+    "coupon": "ll88",
+    "referralUrl": "https://qwerty.liulianyunaff.com#/?code=hS5pvbfE",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-09-30",
+    "author": "linxiaofeng",
+    "editorRating": 8.3,
+    "trialPolicy": "约5.6元月付体验",
+    "features": [
+      "超高性价比亲民定价",
+      "IEPL专线接入",
+      "60GB流量"
+    ],
+    "pros": [
+      "单月5.6元非常适合尝鲜",
+      "日常推特、谷歌学术足够使用"
+    ],
+    "cons": [
+      "4K高清视频加载偶有缓冲",
+      "不支持个性化定制需求"
+    ],
+    "recommendedFor": "轻度社交与查阅资料用户",
+    "tags": [
+      "超低价",
+      "5.6元/月",
+      "亲民实用"
+    ],
+    "datePublished": "2026-09-28"
+  },
+  {
+    "slug": "shenxing",
+    "name": "神行加速",
+    "rank": 25,
+    "foundedYear": 2024,
+    "entryPlan": "约14元/月 120GB",
+    "monthlyPrice": 14,
+    "billingCycle": "月付",
+    "bandwidth": "120GB/月",
+    "lineType": "IEPL",
+    "coupon": "xs0077",
+    "referralUrl": "https://qwerty.shenxingaff.com/#/?code=gawDQqVE",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-10-01",
+    "author": "chenyu",
+    "editorRating": 8.3,
+    "trialPolicy": "约14元月付体验",
+    "features": [
+      "IEPL专线节点",
+      "120GB较大流量",
+      "均衡性价比"
+    ],
+    "pros": [
+      "价格与流量比例适中",
+      "多地区节点覆盖满足日常"
+    ],
+    "cons": [
+      "晚高峰测速吞吐中等",
+      "知名度相对小众"
+    ],
+    "recommendedFor": "需要100GB以上但预算控制在15元内的用户",
+    "tags": [
+      "均衡之选",
+      "14元/月",
+      "120GB"
+    ],
+    "datePublished": "2026-09-29"
+  },
+  {
+    "slug": "huanqiu",
+    "name": "环球梯",
+    "rank": 26,
+    "foundedYear": 2024,
+    "entryPlan": "约5.6元/月 60GB",
+    "monthlyPrice": 5.6,
+    "billingCycle": "月付",
+    "bandwidth": "60GB/月",
+    "lineType": "IEPL",
+    "coupon": "HQ66",
+    "referralUrl": "https://qwerty.huanqiutiaff.com/?code=9I4KRNPH",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-10-01",
+    "author": "linxiaofeng",
+    "editorRating": 8.2,
+    "trialPolicy": "约5.6元试用",
+    "features": [
+      "极致平民价格（约5.6元/月）",
+      "IEPL线路",
+      "60GB配额"
+    ],
+    "pros": [
+      "低资费月付无压力",
+      "适合作为主梯故障时的备用节点"
+    ],
+    "cons": [
+      "节点连接池较小",
+      "大文件下载速度一般"
+    ],
+    "recommendedFor": "备用节点配置与超低预算轻度用户",
+    "tags": [
+      "超低价",
+      "5.6元/月",
+      "备用轻度"
+    ],
+    "datePublished": "2026-09-29"
+  },
+  {
+    "slug": "yinxingren",
+    "name": "隐形人",
+    "rank": 27,
+    "foundedYear": 2024,
+    "entryPlan": "24元/月 流量待核实",
+    "monthlyPrice": 24,
+    "billingCycle": "月付",
+    "bandwidth": "待核实",
+    "lineType": "企业级IEPL",
+    "coupon": "yxr888",
+    "referralUrl": "https://yinxingren1.invisibleaff.com/#/?code=kcyEeoJT",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-10-01",
+    "author": "chenyu",
+    "editorRating": 8.1,
+    "trialPolicy": "24元月付试用",
+    "features": [
+      "企业级IEPL隧道架构",
+      "注重网络私密性与抗干扰",
+      "全平台支持"
+    ],
+    "pros": [
+      "隧道抗封锁调优表现稳健",
+      "隐私安全设计较为严密"
+    ],
+    "cons": [
+      "入门套餐确切流量官网信息动态变动（标为待核实）",
+      "价格达到24元，性价比较为普通"
+    ],
+    "recommendedFor": "对隐私隧道抗干扰有特殊偏好的用户",
+    "tags": [
+      "企业级IEPL",
+      "隐私抗干扰",
+      "月付24"
+    ],
+    "datePublished": "2026-09-30"
+  },
+  {
+    "slug": "tiziyun",
+    "name": "梯子云",
+    "rank": 28,
+    "foundedYear": 2025,
+    "entryPlan": "约7.4元/月 60GB",
+    "monthlyPrice": 7.4,
+    "billingCycle": "月付",
+    "bandwidth": "60GB/月",
+    "lineType": "IEPL",
+    "coupon": "tiziyun",
+    "referralUrl": "https://tiziyun3.ladderaff.com/#/?code=7EmnpHs0",
+    "dataStatus": "vendor",
+    "lastUpdated": "2026-10-01",
+    "author": "linxiaofeng",
+    "editorRating": 8,
+    "trialPolicy": "约7.4元月付试用",
+    "features": [
+      "2025年次新运营",
+      "IEPL专线节点",
+      "约7.4元月费"
+    ],
+    "pros": [
+      "单月7.4元门槛亲民",
+      "日常网页响应较快"
+    ],
+    "cons": [
+      "次新站建议坚持月付以规避风控风险",
+      "流媒体偶有被识别风险"
+    ],
+    "recommendedFor": "低预算尝鲜且坚持按月续费的用户",
+    "tags": [
+      "次新专线",
+      "7.4元/月",
+      "亲民尝试"
+    ],
+    "datePublished": "2026-09-30"
+  }
+]
