@@ -1,0 +1,153 @@
+{
+  "system": "SEO Anti-AI URL Architecture & Topic Cluster Registry",
+  "version": "1.0.0",
+  "lastPublished": "2026-10-02T04:37:44.559Z",
+  "publishedSlugs": [
+    "how-to-choose",
+    "monthly-vs-yearly",
+    "risk-warning",
+    "under-10",
+    "how-to-test",
+    "traps",
+    "trial-cheap-2026-10",
+    "history",
+    "clash-verge-rules-optimization"
+  ],
+  "topicQueue": [
+    {
+      "category": "guide",
+      "slug": "clash-verge-rules-optimization",
+      "title": "Clash Verge Rev 智能分流规则与负载均衡精细化配置深度指南",
+      "shortTitle": "Clash Verge 智能分流指南",
+      "keyword": "Clash Verge配置, 智能分流规则, 负载均衡, 策略组配置",
+      "intent": "帮助技术用户与中重度网民在 Clash Verge Rev 中配置科学的智能分流规则与多节点负载均衡，杜绝国内外流量串流。",
+      "pillar": "/guide/"
+    },
+    {
+      "category": "cheap",
+      "slug": "five-yuan-airport-survival-guide",
+      "title": "月付五元低价机场生存指南：轻量科研与应急备用的最佳使用姿势",
+      "shortTitle": "五元低价机场生存指南",
+      "keyword": "五元机场, 便宜机场使用技巧, 备用节点, 应急翻墙",
+      "intent": "为预算有限的学生党与科研人员提供月付 5 元平价服务的正确使用姿势，避开晚高峰卡死与资金损失。",
+      "pillar": "/cheap/"
+    },
+    {
+      "category": "trial",
+      "slug": "speedtest-cli-advanced-benchmarking",
+      "title": "命令行深度压测实操指南：如何用自动化脚本批量拨测节点真实下行与延迟",
+      "shortTitle": "命令行批量测速实操",
+      "keyword": "命令行测速, speedtest-cli, 机场节点批量测速, 真实带宽检测",
+      "intent": "教导技术读者使用开源命令行工具与 Python/Bash 脚本客观检测节点的 TCP 握手延迟、丢包率与持续峰值吞吐。",
+      "pillar": "/trial/"
+    },
+    {
+      "category": "guide",
+      "slug": "protocol-deep-dive-vless-vs-trojan",
+      "title": "VLESS vs Trojan vs Hysteria 2：三大主力网络加速协议底层机理与风控防线全拆解",
+      "shortTitle": "三大主力加速协议拆解",
+      "keyword": "VLESS协议, Trojan协议, Hysteria 2, 协议对比, 阻断防护",
+      "intent": "从加密算法、传输握手与运营商 QoS 角度深度剖析主流协议的区别，指导用户根据网络环境选用最优协议。",
+      "pillar": "/guide/"
+    },
+    {
+      "category": "cheap",
+      "slug": "overselling-mechanisms-explained",
+      "title": "揭秘机场超售黑幕：如何通过物理带宽比推算晚高峰真实丢包率",
+      "shortTitle": "机场超售与丢包内幕",
+      "keyword": "机场超售, 晚高峰丢包, 物理带宽测算, 机场跑路内幕",
+      "intent": "通过 IDC 物理采购成本与用户共享比公式，揭露廉价服务商过度超售的商业套路，帮助用户建立科学鉴别能力。",
+      "pillar": "/cheap/"
+    },
+    {
+      "category": "guide",
+      "slug": "streaming-4k-unlocking-matrix-guide",
+      "title": "全球主流流媒体（Netflix/Disney+/YouTube）4K 原生解锁原理与风控应对方案",
+      "shortTitle": "主流流媒体4K解锁指南",
+      "keyword": "流媒体解锁, Netflix 4K, Disney+跨区, 原生住宅IP, 串流风控",
+      "intent": "解析海外主流流媒体平台的 IP 风控体系与 CDN 调度策略，指导用户解决仅看自制剧与访问受阻问题。",
+      "pillar": "/guide/"
+    },
+    {
+      "category": "trial",
+      "slug": "packet-loss-detection-guide",
+      "title": "丢包率与网络抖动精准测量：超越普通单次测速的全天候连通性自测方法",
+      "shortTitle": "丢包抖动全天候测量",
+      "keyword": "丢包率测量, 网络抖动, MTR路由追踪, Ping稳定性测试",
+      "intent": "教授用户利用 MTR 与持续 ICMP/TCP Ping 检测链路真实抖动，识别假专线与跳板中转劣质线路。",
+      "pillar": "/trial/"
+    },
+    {
+      "category": "guide",
+      "slug": "chatgpt-claude-residential-ip-guide",
+      "title": "2026 AI 时代住宅 IP 选用指南：如何规避 OpenAI 与 Claude 的批量封禁与降级",
+      "shortTitle": "AI时代住宅IP选用指南",
+      "keyword": "ChatGPT住宅IP, Claude访问受限, 纯净节点, AI防封号",
+      "intent": "系统解析大语言模型开发商的风控标记机制，指导用户挑选具备纯净住宅出口的节点以保护宝贵的订阅账号。",
+      "pillar": "/guide/"
+    },
+    {
+      "category": "cheap",
+      "slug": "yearly-vs-monthly-cost-matrix",
+      "title": "年付低价 vs 月付尝鲜：全网网络加速服务五年成本模型与资金安全指南",
+      "shortTitle": "年付vs月付成本模型",
+      "keyword": "年付月付对比, 机场资金安全, 避坑跑路, 性价比模型",
+      "intent": "从沉没成本、折扣率、跑路风险期望值三个数学维度建立决策模型，指导不同预算用户权衡最佳付款周期。",
+      "pillar": "/cheap/"
+    },
+    {
+      "category": "guide",
+      "slug": "sing-box-universal-setup-guide",
+      "title": "Sing-box 极简多端通用订阅与分流内核调优指南",
+      "shortTitle": "Sing-box多端配置调优",
+      "keyword": "Sing-box配置, Sing-box订阅, 规则分流, 内存调优",
+      "intent": "介绍下一代轻量级加速核心 Sing-box 的配置语法与多平台（iOS/Android/Windows/macOS）快速上手流程。",
+      "pillar": "/guide/"
+    },
+    {
+      "category": "trial",
+      "slug": "fake-speedtest-traps-uncovered",
+      "title": "警惕测速虚标黑幕：机场节点测速造假与本地伪造缓存识别技术",
+      "shortTitle": "测速虚标与缓存识别",
+      "keyword": "测速造假, 虚假带宽, 本地缓存欺骗, 测速防坑",
+      "intent": "揭秘不良服务商通过本地反向代理伪造 Speedtest 峰值数据的作弊手段，提供多源跨机房交叉验证方案。",
+      "pillar": "/trial/"
+    },
+    {
+      "category": "guide",
+      "slug": "bgp-transit-topology-explained",
+      "title": "从国内骨干到国际出入口：BGP 多线中继物理拓扑与就近接入原理",
+      "shortTitle": "BGP多线中继拓扑原理",
+      "keyword": "BGP入口, 专线拓扑, 国际出入口局, 三网直连",
+      "intent": "以图解与网络工程视角解析 BGP 智能路由与各省市运营商网关的调度逻辑，提升读者的专业鉴赏能力。",
+      "pillar": "/guide/"
+    },
+    {
+      "category": "cheap",
+      "slug": "budget-student-network-strategy",
+      "title": "学生党百元年度加速方案精算：低成本跨国科研与学术协同指南",
+      "shortTitle": "学生党百元用网精算",
+      "keyword": "学生机场, 论文查阅加速, Google Scholar, 百元预算",
+      "intent": "专为在校学生量身打造的极简省钱方案，将全年度用网开销严格压低在 100 元以内并确保核心科研工具畅通。",
+      "pillar": "/cheap/"
+    },
+    {
+      "category": "guide",
+      "slug": "shadowrocket-advanced-routing",
+      "title": "小火箭 Shadowrocket 进阶使用技巧：规则组、去广告与多节点轮询",
+      "shortTitle": "小火箭进阶规则与轮询",
+      "keyword": "Shadowrocket进阶, 小火箭规则, 节点轮询, 自动测速选择",
+      "intent": "iOS 用户专属的进阶操作手册，详解 URL-Test 自动优选、配置分流与去重过滤的最佳实践。",
+      "pillar": "/guide/"
+    },
+    {
+      "category": "guide",
+      "slug": "cross-border-network-jitter-analysis",
+      "title": "国际海缆故障与跨境网络抖动成因深度剖析及应对指南",
+      "shortTitle": "海缆故障与跨境抖动成因",
+      "keyword": "海底光缆, 跨境网络抖动, 骨干网拥塞, 冗余专线",
+      "intent": "科普中美、中日、中欧主要海缆走向与历史故障案例，解释为何企业内网双活容灾是消除抖动的唯一终极解法。",
+      "pillar": "/guide/"
+    }
+  ]
+}

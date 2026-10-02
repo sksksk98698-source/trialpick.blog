@@ -372,6 +372,7 @@ export default defineConfig({
             { text: '如何科学选适合自己的机场', link: '/guide/how-to-choose' },
             { text: '月付 vs 年付权衡博弈分析', link: '/guide/monthly-vs-yearly' },
             { text: '机场跑路风险识别与预警', link: '/guide/risk-warning' },
+            { text: 'Clash Verge 智能分流指南', link: '/guide/clash-verge-rules-optimization' },
           ],
         },
       ],
