@@ -361,6 +361,7 @@ export default defineConfig({
           items: [
             { text: '便宜机场全景横评与成本拆解', link: '/cheap/' },
             { text: '月付10元以内高性价比机场', link: '/cheap/under-10' },
+            { text: '五元低价机场生存指南', link: '/cheap/five-yuan-airport-survival-guide' },
           ],
         },
       ],
