@@ -352,6 +352,7 @@ export default defineConfig({
             { text: '2026机场免费试用指南', link: '/trial/' },
             { text: '试用时应该测什么核心指标', link: '/trial/how-to-test' },
             { text: '警惕免费陷阱与钓鱼套路', link: '/trial/traps' },
+            { text: '命令行批量测速实操', link: '/trial/speedtest-cli-advanced-benchmarking' },
           ],
         },
       ],
